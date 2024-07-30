@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varnit Sharma</h1>
 <h3 align="center">A passionate Devops Engineer.</h3>
 
-- Hi, I am currently Working **on Api Gateway**
+- Hi, I am currently Working **on  E-commerce application and impementation of Devops tools**
 
-- 🌱 I’m currently learning **a Cloud**
+- 🌱 I’m currently learning **Ansible **
 
 - 👯 I’m looking to collaborate on **go and devops projects**
 
